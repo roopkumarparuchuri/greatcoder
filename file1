@@ -1,4 +1,7 @@
 1)git is a vcs tool 
 2)it is used for track the devolopers code
 3)it is free and open source
+4)jenkins is one of the ci/cd tool.
+5)it is used to create the pipe lines between the devolopeam and operations team 
+after the deployment
 
